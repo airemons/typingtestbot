@@ -7,5 +7,6 @@ Also, for some reason, the compiled .exe file doesn't work unless run as adminis
 
 NOTE : for the .py script to run you will need to install pyautogui (pip install pyautogui).
 
-You must install Google Chrome for this to work (but I'm pretty sure everyone already has chrome installes)
+You must install Google Chrome for this to work (but I'm pretty sure everyone already has chrome installed)
+
 I am working on this for linux. Will hopefully come out tommorow.
